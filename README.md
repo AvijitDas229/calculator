@@ -1,6 +1,7 @@
-# newcalculator
+# NewCalculator
 
 A new Flutter calculator.
+This is my first App Development Project(using Dart). 
 
 ## Getting Started
 
